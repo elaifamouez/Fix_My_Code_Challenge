@@ -1,2 +1,13 @@
 # Fix_My_Code_Challenge
-Fix my code is a new type of project, where we’ll jump into an existing code base and fix it!  Sometime you will know the language, sometime not.  Please download the repository 0x01-Fix_My_Code_Challenge and use it as initial files for all solutions.  You should not recode everything, just fix it!
+
+![Repo size](https://img.shields.io/github/repo-size/AsuweRich/Fix_My_Code_Challenge)
+![Pep8 style](https://img.shields.io/badge/PEP8-style%20guide-purple?style=round-square)
+![Latest commit](https://img.shields.io/github/last-commit/AsuweRich/S.E_Bounty/main?style=round-square)
+
+Background Context
+------------------
+
+`Fix my code` is a new type of project, where we'll jump into an existing code base and fix it!
+
+Sometimes you will know the language, sometimes not.
+
